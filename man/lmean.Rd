@@ -17,7 +17,7 @@ Calculates mean of every list element
 }
 \examples{
 # random comment
-lmean(list(c(12,3,4,5,6,7,4),c(12,3,4,5,6)))
+lmean(list(c(12,3,4,5,6,7,4),c(12,3,4,5,6,7)))
 }
 \seealso{
 \code{\link[base]{mean}}
