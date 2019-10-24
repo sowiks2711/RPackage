@@ -13,7 +13,7 @@ lmean(list_of_vectors)
 lmean
 }
 \details{
-Calculates mean of every element
+Calculates mean of every list element
 }
 \examples{
 # random comment
